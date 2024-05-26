@@ -1,0 +1,47 @@
+### Footprint positions - created on 2024-04-25T22:59:14+0200 ###
+### Printed by KiCad version 8.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                                                            PosX       PosY       Rot  Side
+C1        100nF              C_0805_2012Metric                                                              116.6950   -98.4000    0.0000  top
+C2        100nF              C_0805_2012Metric                                                              130.3000   -98.4000    0.0000  top
+C3        100nF              C_0805_2012Metric                                                              143.7000   -98.4000    0.0000  top
+C4        100nF              C_0805_2012Metric                                                              157.3000   -98.4000    0.0000  top
+C5        10uF               C_1210_3225Metric                                                              171.3000   -96.9000  180.0000  top
+C6        22uF               C_0805_2012Metric                                                              166.3000   -96.7000    0.0000  top
+C7        22uF               C_0805_2012Metric                                                              111.0950   -98.4000  180.0000  top
+C8        22uF               C_0805_2012Metric                                                              124.7000   -98.4000  180.0000  top
+C9        22uF               C_0805_2012Metric                                                              138.1000   -98.4000  180.0000  top
+C10       22uF               C_0805_2012Metric                                                              149.0000   -98.4000  180.0000  top
+C11       100nF              C_0805_2012Metric                                                              124.6675  -109.3500   90.0000  top
+C12       100nF              C_0805_2012Metric                                                              128.8675  -109.3500   90.0000  top
+C13       22uF               C_0805_2012Metric                                                              126.7675  -109.3500   90.0000  top
+C14       100nF              C_0805_2012Metric                                                              155.3000  -112.8000    0.0000  top
+C15       100nF              C_0805_2012Metric                                                              136.2675  -109.3500   90.0000  top
+C16       22uF               C_0805_2012Metric                                                              168.5000   -99.6000  180.0000  top
+F5        Polyfuse_Small     Fuse_1812_4532Metric                                                           175.3000   -82.9000   90.0000  top
+J1        Conn_01x07_Socket  PhoenixContact_PTSA_1x07_P3.5mm_Horizontal                                     185.0000   -92.0000   90.0000  top
+J2        AVR-UPDI-6         IDC-Header_2x03_P2.54mm_Vertical                                               106.9400   -89.9800  180.0000  top
+R1        1k                 R_0805_2012Metric                                                              178.0000  -104.0000   90.0000  top
+R2        1k                 R_0805_2012Metric                                                              185.4000  -105.5000   90.0000  top
+R3        10k                R_0805_2012Metric                                                              175.2000   -97.7000  -90.0000  top
+R4        10k                R_0805_2012Metric                                                              177.6000   -97.7000  -90.0000  top
+R5        10k                R_0805_2012Metric                                                              113.8950   -97.7000   90.0000  top
+R6        10k                R_0805_2012Metric                                                              127.5000   -97.7000   90.0000  top
+R7        10k                R_0805_2012Metric                                                              140.9000   -97.7000   90.0000  top
+R8        10k                R_0805_2012Metric                                                              154.5000   -97.7000   90.0000  top
+R9        1k                 R_0805_2012Metric                                                              122.5675  -109.3500  -90.0000  top
+R10       10k                R_0805_2012Metric                                                              162.4000   -99.6000  180.0000  top
+R11       100k               R_0805_2012Metric                                                              172.0000   -99.6000  180.0000  top
+R12       10k                R_0805_2012Metric                                                              105.6000   -96.7000    0.0000  top
+U1        TMCS1108-Q1        SOIC-8_3.9x4.9mm_P1.27mm                                                       113.7950   -91.9000  -90.0000  top
+U2        TMCS1108-Q1        SOIC-8_3.9x4.9mm_P1.27mm                                                       127.3000   -91.9000  -90.0000  top
+U3        TMCS1108-Q1        SOIC-8_3.9x4.9mm_P1.27mm                                                       140.7000   -91.9000  -90.0000  top
+U4        TMCS1108-Q1        SOIC-8_3.9x4.9mm_P1.27mm                                                       154.3000   -91.9000  -90.0000  top
+U5        K78U05-500R3       SIP3_11.6x8.5mm_INV                                                            167.7600   -92.8500    0.0000  top
+U6        CPC1017N           SOP-4_3.8x4.1mm_P2.54mm                                                        186.7000   -99.7500   90.0000  top
+U7        CPC1017N           SOP-4_3.8x4.1mm_P2.54mm                                                        181.9000   -99.7500   90.0000  top
+U8        NCP163ASN330T1G    SOT-23-5                                                                       132.0675  -109.3500  180.0000  top
+U9        PCA8561BHN         QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm                                          124.7500  -115.2750  -90.0000  top
+U10       ATtiny806-S        SOIC-20W_7.5x12.8mm_P1.27mm                                                    147.0000  -107.1000  180.0000  top
+## End
